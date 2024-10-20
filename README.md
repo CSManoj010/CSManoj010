@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CSManoj
+- 👋 Hi, I’m @C S Manoj
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning full stack web development 
 
